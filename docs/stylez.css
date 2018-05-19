@@ -1,0 +1,34 @@
+h1 {
+  color: lightblue;
+  font-family: "Impact";
+  font-size: 69px
+}
+
+body {
+    background-color: green;
+}
+
+#dank {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 40px;
+  color: red;
+}
+
+#spongeboie {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sponge {
+  font-size: 40px;
+  color: yellow;
+}
+
+#small {
+  color: white;
+  font-family: "Garamond";
+  font-size: 6px;
+}
